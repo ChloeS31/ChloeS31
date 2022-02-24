@@ -2,7 +2,7 @@
 
 #### About Me
 - I'm currently learning AI/ML
-- I'm currently looking for intern/junior software engineer job positions
+- I'm currently looking for intern/junior software engineer position
 
 #### Learning
 
