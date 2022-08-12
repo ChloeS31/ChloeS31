@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hello&fontSize=90&text=\nI'm%20Chloe&fontSize=30)
+
+
 ### Hi there 👋
 
 #### About Me
@@ -19,8 +22,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeS31&langs_count=8)](https://github.com/ChloeS31/github-readme-stats)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 ![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChloeS31&count_private=true&theme=dracula)
