@@ -4,7 +4,8 @@
 ## About Me
 - I'm currently working on NLP classification projects as an intern
 - I'm currently learning AI/ML
-- I'm currently looking for intern/junior software engineer positions
+- I have accomplished a variety of AI projects including classifications, detections, and pose estimations, with sequential data, image data, and language data. 
+- I'm currently looking for intern/junior software engineer positions, preferably in CV
 
 
 ####
