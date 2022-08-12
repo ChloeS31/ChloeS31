@@ -2,8 +2,9 @@
 
 <!--### Hi there 👋-->
 ## About Me
+- I'm currently working on NLP classification projects as an intern
 - I'm currently learning AI/ML
-- I'm currently looking for intern/junior software engineer position
+- I'm currently looking for intern/junior software engineer positions
 
 
 ####
