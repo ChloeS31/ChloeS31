@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hello&fontSize=90&text=\nI'm%20Chloe&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&desc=I'm%20Chloe&fontSize=60&&rotate=20&fontAlingn=75&descAlighY=43&descAlign=80&&animation=twinkling)
 
 
 ### Hi there 👋
