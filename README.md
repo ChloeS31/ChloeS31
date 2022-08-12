@@ -19,7 +19,7 @@
 #####
 #####
 <!-- Top Langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeS31&hide=jupyter%20notebookm,c%2B%2B,c,cython&layout=compact)](https://github.com/ChloeS31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeS31&langs_count=4&hide=jupyter%20notebook,c%2B%2B,c,cython&layout=compact)](https://github.com/ChloeS31/github-readme-stats)
 
 <!-- Github Stat -->
 ![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChloeS31&count_private=true&theme=dracula)
