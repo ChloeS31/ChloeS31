@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=Hi%20there%20👋%20&desc=I'm%20Chloe&fontSize=60&rotate=20&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi%20there%20👋%20&desc=I'm%20Chloe&fontSize=60&rotate=20&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80)
 
 <!--### Hi there 👋-->
 ## About Me
