@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi%20there%20👋%20&desc=I'm%20Chloe&fontSize=60&rotate=18&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=Hi%20there%20👋%20&desc=I'm%20Chloe&fontSize=60&rotate=20&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80)
 
 <!--### Hi there 👋-->
 ## About Me
@@ -17,7 +17,7 @@
 
 ####
 <!-- Top Langs -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeS31&langs_count=4&hide=jupyter&layout=compact)](https://github.com/ChloeS31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeS31&langs_count=4&hide=jupyter%20notbook&layout=compact)](https://github.com/ChloeS31/github-readme-stats)
 
 <!-- Github Stat -->
 ![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChloeS31&count_private=true&theme=dracula)
