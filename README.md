@@ -7,7 +7,7 @@
 - I have accomplished a variety of AI projects including classifications, detections, and pose estimations, with sequential data, image data, and language data. 
 - I'm currently looking for intern/junior software engineer positions, preferably in CV
 
-
+[click for my glist](https://gist.github.com/ChloeS31)
 ####
 ## Skills
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/90362264/155440259-9ad8e0eb-f46f-441e-864e-7bf2e78cda91.svg)
